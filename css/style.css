@@ -1,0 +1,75 @@
+
+.header{
+  background-image: url(../img/beachshowcase.jpg);
+  height: 100vh;
+  width: 100vw;
+  margin: 0 ;
+  background-position: center;
+}
+
+.title{
+  margin: 0px;
+  font-size: 50px;
+  color:#926239; 
+  text-align: center;
+  padding-top: 330px; 
+  line-height: 1.2;
+}
+.subtitle{
+  font-size: 20px;
+  color:#926239; 
+  text-align: center;
+  line-height: 1.6;
+}
+.link{
+  font-size: 18px;
+  color:#926239; 
+  text-decoration: none;
+  margin-left: 45%;
+  border: 2px solid #926239;
+  border-radius: 10px;
+  display: block;
+  line-height: 1.6;
+  width: 120px;
+  height: 35px;
+  padding-top: 5px;
+  padding-left: 13px;
+  cursor: pointer;
+}
+.top{
+  padding: 10px;
+  color:#fff; 
+  background-color: #926239;
+  width: 100%;
+  line-height: 1.6;
+  margin-top: 0px;
+  line-height: 1.6;
+  font-size: 17px;
+}
+
+
+.center{
+  color: #926239;
+  margin: 0px;
+  color:#926239;
+  background-color: #fff;
+  line-height: 1.6;
+  font-size: 17px;
+}
+.footer-parties{
+ display: inline-block;
+  background-color: #926239;
+  padding: 20px;
+  color: #fff;
+  width: 30vw;
+  font-size: 17px;
+  text-align: center;
+}
+.footer-center{
+  display: inline-block;
+  padding: 20px;
+ color:#926239;
+ width: 30vw;
+ text-align: center;
+ font-size: 17px;
+}
